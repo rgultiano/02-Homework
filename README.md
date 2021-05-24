@@ -5,8 +5,8 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [User Story](#User Story)
-* [Acceptance Criteria](#Acceptance Criteria)
+* [User Story](#User-Story)
+* [Acceptance Criteria](#Acceptance-Criteria)
 
 ## General Info
 This is the source code for Horizeon webpage to describe it's service offerings.
